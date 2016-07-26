@@ -1,0 +1,28 @@
+name: Speak Toomey
+favicon: null
+layout_spectrum: 0.9643428816925734
+typography_spectrum: 0.20642769522964954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.034109030151739717
+  lightness: 0.9409881709143519
+  saturation: 0.8608099231496453
+  rhythmicContrast: 0.6510268687270582
+purpose: []
